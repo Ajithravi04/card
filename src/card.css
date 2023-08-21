@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.App{
+    background-color: aquamarine;
+    background: linear-gradient(0deg,rgb(133, 255, 121) 0%, rgb(174, 31, 240) 100%);
+    
+}
+
+img{
+    
+   
+    height: 300px;
+    width: 200px;
+  }
+h1,p{ 
+    margin-top: 90px;
+}
+
+.App div:first-child{
+    background-color: 7FFFD4;
+   
+    
+    
+    
+    
+    
+}
+.App div:nth-child(2){
+    background-color: 9370DB;
+    
+    
+    
+}
+.App div:nth-child(3){
+    background-color: FF69B4;
+   
+    
+}
+.App div:last-child{
+    background-color: B5A642;
+    
+   
+}
+
+button{
+    height: 40px;
+    width: 80px;
+}
